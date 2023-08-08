@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abduyus
-- 👀 I’m interested in blender and 3d modelling.
-- 🌱 I’m currently learning blender and python
-- 💞️ I’m looking to collaborate on blender projects
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me snowman.kingly.0x@icloud.com
 
 <!---
