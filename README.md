@@ -11,7 +11,9 @@
 [comment]: <> (how to write in yellow or any colour)
 [comment]: <> (It doesn't render colour on github though)
 [comment]: <> (<span style="color:yellow">some *blue* text</span>)
+
 ---
+
 ### 🧰 Languages and Tools
 
 
@@ -27,7 +29,12 @@
 
 
 
-<br />
+<br>
+<br>
 
-#
+---
+
+### :fire: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abduyus&theme=sunset-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
