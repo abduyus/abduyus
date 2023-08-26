@@ -1,7 +1,7 @@
 # 🎒Yusuf Abdur-Rasheed 
 
 **`Student Developer (Developer/Full-Stack)`**
-([My Portfolio] google.com)
+[My Portfolio](https://portfolio-yusuf.streamlit.app/)
 
 ### Hi, I'm Yusuf👋🏼! 
 - #### I'm a student based in Solihull, UK. 
