@@ -2,7 +2,7 @@
 
 **`Student Developer (Developer/Full-Stack)`**
 
-[My Portfolio](https://portfolio-yusuf.streamlit.app/)
+[My Portfolio](https://yusufar.netlify.app/)
 
 ### Hi, I'm Yusuf👋🏼! 
 - #### I'm a student based in Solihull, UK. 
