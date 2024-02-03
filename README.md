@@ -5,11 +5,10 @@
 [My Portfolio](https://yusufar.netlify.app/)
 
 ### Hi, I'm Yusuf👋🏼! 
-- #### I'm a student based in Solihull, UK. 
-- #### Originally from Hasilpur, Pakistan. 
-- #### I am in Solihull School and I am looking to become a Full-Stack Developer.
+- #### I'm a student based in UK. 
+- #### I am in Year 9 and I am looking to become a Full-Stack Developer.
 - #### I have built a couple of Python projects from the ground up.
-- #### I am currently learning Python.
+- #### I am currently learning JavaScript.
 [comment]: <> (how to write in yellow or any colour)
 [comment]: <> (It doesn't render colour on github though)
 [comment]: <> (<span style="color:yellow">some *blue* text</span>)
